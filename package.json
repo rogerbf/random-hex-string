@@ -1,7 +1,7 @@
 {
   "name": "random-hex-string",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "generate a random hex string",
   "main": "index.js",
   "scripts": {
     "test": "jest --config .jest",
@@ -13,7 +13,11 @@
     "coverage": "jest --config .jest --coverage",
     "watch:coverage": "jest --config .jest --coverage --watch"
   },
-  "keywords": [],
+  "keywords": [
+    "random",
+    "string",
+    "hex"
+  ],
   "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
   "license": "MIT",
   "devDependencies": {
